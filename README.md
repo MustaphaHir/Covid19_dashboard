@@ -8,7 +8,7 @@ Pour executer le code, on lance le fichier dash.app et installer certains packag
 
 DEVELOPPER GUIDE:
 
-Le code se divise en deux parties, la première partie consiste à déclarer les figures, cartes pour le dashboard et la seconde partie où le dashboard est crée.
+Le code se divise en deux parties, la première partie consiste à déclarer les figures ainsi que les deux cartes pour le dashboard et la seconde partie où le dashboard est crée.
 
 RAPPORT D'ANALYSE:
 

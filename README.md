@@ -1,3 +1,5 @@
+PROJET DASHBOARD
+
 Voici le rendu de mon projet en Python, un dashboard représentant l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 2 décembre 2020. Le jeu de données a été pris sur Kaggle.com. Voici le lien des données: https://www.kaggle.com/junyingsg/covid19-dataset.
 
 USER GUIDE: 
